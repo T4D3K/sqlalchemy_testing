@@ -1,0 +1,13 @@
+ORM plusy:
+- utrzymanie
+- przejrzystość
+- szybkość pisania
+- zabezpieczenie przed sql injection
+- latwość refactorowania
+
+Minusy:
+- wydajność
+- pułapki
+
+
+DZIĘKI ZA UWAGĘ :)
